@@ -1,0 +1,26 @@
+body {
+  background: linear-gradient(135deg, #D3CAE2, #E6C17A);
+}
+
+#gameContainer {
+  text-align: center;
+}
+
+#gameBoard {
+  border: 3px solid;
+}
+
+#scoreText {
+  font-family: 'Permanent Marker' Times New Roman;
+  font-size: 65px;
+}
+
+#resetBtn {
+  font-family: 'Permanent Marker' Times New Roman;
+  font-size: 22px;
+  width: 90px;
+  height: 50px;
+  border: 4px solid;
+  border-radius: 15px;
+  cursor: pointer;
+}
